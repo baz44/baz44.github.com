@@ -51,6 +51,13 @@ table {
   font: 100%;
 }
 
+.logo {
+	max-width: 17px;
+	width: 17px;
+	max-height: 17px;
+	height: 17px;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -196,9 +203,4 @@ ul.posts {
     margin-bottom: 1em;
   }
 
-.logo {
-	max-width: 17px;
-	width: 17px;
-	max-height: 17px;
-	height: 17px;
-}
+
