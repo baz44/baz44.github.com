@@ -195,3 +195,10 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+.logo {
+	max-width: 17px;
+	width: 17px;
+	max-height: 17px;
+	height: 17px;
+}
