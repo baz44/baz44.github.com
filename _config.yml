@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Basel Farah - The blog
-tagline: Basel Farah - the blog
+title : Basel Farah
+tagline: Basel Farah
 author :
   name : Basel Farah
   email : baself[at]gmail[dot]com
