@@ -27,7 +27,9 @@
 
 <!-- swap out for a logo -->
 <div id="monogram">
+
 </div>
+
 
 <!-- swap out for information about yourself -->
 <div id="about">
@@ -42,6 +44,10 @@ $(function(){
      $(window).resize(function(){
          if($(this).width() >= 767){
            $.backstretch("{{ ASSET_PATH }}/images/baz.jpg", {speed: 150, centeredX: false});
+	   $('#monogram').html('');
+	 } else {
+	   $('.backstretch img').remove();
+	   $('#monogram').html('<img id="image-small" src="{{ ASSET_PATH }}/images/baz_small.jpg" />');
          }
       }).resize();//trigger resize on page load
 });
