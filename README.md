@@ -1,4 +1,4 @@
-# blog.baselfarah.co.uk
+# baselfarah.co.uk
 
-[blog.baselfarah.co.uk](http://blog.baselfarah.co.uk)
+[baselfarah.co.uk](http://www.baselfarah.co.uk)
 
