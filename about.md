@@ -3,7 +3,10 @@ layout: default
 title: About
 permalink: /about/
 ---
-![My pohoto]({{ 'baself@gmail.com' | gravatar }}){: style="float:right"}
+<figure>
+  <img src="{{ 'baself@gmail.com' | gravatar }}" alt="My beautiful face." style="float:right">
+</figure>
+
 
 Hello There,
 
