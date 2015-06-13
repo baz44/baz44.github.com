@@ -3,11 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-<figure>
-  <img src="{{ 'baself@gmail.com' | gravatar }}" alt="My beautiful face." style="float:right">
-</figure>
-
-
 Hello There,
 
 My name is Basel Farah, I am senior polyglot software developer with over 8 years experience in writing scalable software for startups and public companies. I live in the lovely Hertfordshire town of [Hitchin][hitchin-wiki] and work in central London.
