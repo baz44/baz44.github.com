@@ -2,7 +2,7 @@
 title: Baz's Thought Box
 email: hello@baselfarah.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Basel Farah, I am a software developer, And this is my though box
+  My name is Basel Farah, I am a software developer, And this is my thought box
   where I write things about programming, technology and other stuff. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.baselfarah.co.uk" # the base hostname & protocol for your site
