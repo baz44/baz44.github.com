@@ -1,19 +1,17 @@
+title: About
+permalink: /about/
 ---
-layout: page
-title : About
-header : About
-group: navigation
----
-{% include JB/setup %}
+![My pohoto]({{ 'baself@gmail.com' | gravatar }}){: style="float:right"}
 
-# Hello...
-{{ p }}
-Hello my name is Basel Farah, I'm a software developer currently working at [Xively](http://xively.com/) by [LogMeIn](http://logmein.com) in London. I mostly write code in [Ruby](http://ruby-lang.org), [Clojure](http://clojure.org) and Javascript.
-{{ /p }}
+Hello There,
 
-{{ p }}
-We at Xively have developed the first [Public Cloud](http://online.wsj.com/article/PR-CO-20130514-907772.html) for commercial Internet of Things, an [award winning](https://xively.com/awards/) platform to accelerate the commercial adoption of IoT.
-{{ /p }}
+My name is Basel Farah, I am senior polyglot software developer with over 8 years experience in writing scalable software for startups and public companies. I live in the lovely Hertfordshire town of [Hitchin][hitchin-wiki] and work in central London.
 
-{{ p }}
-You can check out some of my work on [github](http://github.com/baz44), follow me on twitter as [@baself](http://twitter.com/baself) or get in touch by sending me an email at [hello@baselfarah.co.uk](mailto:hello@baselfarah.co.uk?subject=HelloBaz).
+I have an extensive experience in Ruby, Clojure, Go, Cassandra, PostgreSQL, open source and architecting microservices. My areas of interest include programming languages, free softwared and Internet of Things (IoT).
+
+You can check out my professional profile [here][linkedin-profile], feel free to fork my [code][github-profile] or get in touch if you need help with your next project by [emailing][email-address] me.
+
+[hitchin-wiki]: https://en.wikipedia.org/wiki/Hitchin 
+[linkedin-profile]: https://uk.linkedin.com/in/baself
+[github-profile]: https://github.com/baz44
+[email-address]: mailto:hello@baselfarah.co.uk
