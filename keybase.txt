@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/baself
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://baselfarah.co.uk
+  * I am baself (https://keybase.io/baself) on keybase.
+  * I have a public key with fingerprint E379 526D EBD7 CDE2 EAD0  E354 BB62 0AA1 0665 7FCE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010183f09c7fbca6f3b012111c8dc3d491872c254417184f9effc124fb8cef8a33d20a",
+            "fingerprint": "e379526debd7cde2ead0e354bb620aa106657fce",
+            "host": "keybase.io",
+            "key_id": "bb620aa106657fce",
+            "kid": "010183f09c7fbca6f3b012111c8dc3d491872c254417184f9effc124fb8cef8a33d20a",
+            "uid": "c0d8a2451db9fdc26f6b35bf14651219",
+            "username": "baself"
+        },
+        "service": {
+            "hostname": "baselfarah.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454662764,
+    "expire_in": 157680000,
+    "prev": "ab5e9d3c2867f33fdbf1f8a49ec0c3cb78b4723d68be54fd07113f555320bf13",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJZSFRRGB5LW6bNIst8kLghZslwz93vlEVGkQ9RVrZgMt2zOZeZ5o6z
+WDYaFqalkbaQZVGBWQSRGhlUgguakC+tRoktFBEVIbSQEdS5Ug9Bj52Xw/n/7/vO
+9/38PVPGOpxxqQeez/uU8qU6rr/rRNSx8Rr2xzho4RLOHeN8ZPQifkzCEY/PxJyb
+4wEPNJHyOlIpRIZCRcgDAQCANIxELOlAUwUkyJIEVKBJVCeUIiBIFGqIUM0QRSzw
+BpfJUTNQSELBkBmIMFkiqrosKJhArCJMBGJgnoiyBKHC4AbgFUVWKSKM6LXCNoOZ
+g0aYuEyL1djDM2rvH/j/7Ds6Kod4rBmCJAMMdYqRoFAFijKkQFJkJqvbwDAJBYzt
+xHbFjPopV5bJsVqxyWyxsdo5/uobIcPrQpYr6mPsYMiKWMjys643Egm6bXKkJGij
+dxDo+a3jgWYAs0EyQjEJhU0rwLkBQ6KIaQsDSZYURVAVKZMjO4NmiHhMGyGrisaz
+Y39DipmkAWWiYxEJmqJSUaSYJWGhJZ0gHokIqhqUVEHEigaJLFHMqwCIVJZlUeAZ
+VOTsZEUBi3PrzKZRyCTDZmHAiERDhCvr7twa74hzOsYljLEXzOGcmPhn7Ty+8T9z
+ot2e64NNw69G6k/dz0rHvqHHjSN15JaWLDQer2nc1wST3y3IWPu1/Ef1cri4Q9oz
+nBI/cGH9i2kNTc1p7f7Y19xdzRlH5BF+/0jp7PTTFbeaXefunpv0St38+m5r5duC
+1L2DA4nRJ/n3Ns3NXZM2Yar1edaH2jxXbPf7vk1Lvw/fye6feblnVcqzOx2JR/ur
+hrIdtOzSdL5l/rbYFsf5hBt9aRXe5MnSs5wHj3vrulqS9lz5/PRY5ZzOvNbE/Nsf
+y8HBQ4eXgA0re4rWvVv0MOXBzZcVR1JnlDszZp3MrTljJOVcfXr2ouApDbTnPWp7
+0zbQu6zet7CgJn1FVu23qryWiasbfgEbI0TQ
+=cPrc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/baself
+
+==================================================================
