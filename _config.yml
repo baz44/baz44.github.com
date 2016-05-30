@@ -1,9 +1,8 @@
 # Site settings
-title: Baz's Thought Box
+title: Basel Farah's Personal Site
 email: hello@baselfarah.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Basel Farah, I am a software developer, And this is my thought box
-  where I write things about programming, technology and other stuff. 
+  This is the personal site for Basel Farah
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.baselfarah.co.uk" # the base hostname & protocol for your site
 twitter_username: baself
