@@ -1,8 +1,8 @@
 # Site settings
-title: Basel Farah's Personal Site
-email: hello@baselfarah.co.uk
+title: <i>foo, bar, <strong>Baz</strong></i>
+email: hello at baselfarah dot co dot uk
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal site for Basel Farah
+             Baz description
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.baselfarah.co.uk" # the base hostname & protocol for your site
 twitter_username: baself
