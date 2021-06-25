@@ -8,6 +8,7 @@ url: "http://www.baselfarah.co.uk" # the base hostname & protocol for your site
 twitter_username: baself
 github_username:  baz44
 linkedin_username: baself
+production_url: https://www.baselfarah.co.uk/
 
 # Build settings
 markdown: kramdown
