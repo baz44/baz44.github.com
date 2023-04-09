@@ -12,9 +12,9 @@ production_url: https://www.baselfarah.co.uk/
 
 # Build settings
 markdown: kramdown
-# analytics :
-#    provider : google
-#    google :
-#        tracking_id : 'UA-10597908-4'
 plugins:
   - jekyll-redirect-from
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-10597908-4'
